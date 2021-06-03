@@ -1,0 +1,32 @@
+/Users/zacharycytryn/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.deps.json
+/Users/zacharycytryn/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/ref/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.pdb
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csprojAssemblyReference.cache
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/Views/ItemView.xaml.g.cs
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfoInputs.cache
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfo.cs
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.CoreCompileInputs.cache
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.Fody.CopyLocal.cache
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/ref/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.pdb
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/bin/Debug/netstandard2.0/DoToo.deps.json
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/bin/Debug/netstandard2.0/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/bin/Debug/netstandard2.0/ref/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/bin/Debug/netstandard2.0/DoToo.pdb
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.csprojAssemblyReference.cache
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/Views/ItemView.xaml.g.cs
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfoInputs.cache
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfo.cs
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.CoreCompileInputs.cache
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.Fody.CopyLocal.cache
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/ref/DoToo.dll
+/Users/zacharycytryn/Projects/DoToo copy/DoToo/obj/Debug/netstandard2.0/DoToo.pdb
